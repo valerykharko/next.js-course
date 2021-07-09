@@ -1,0 +1,26 @@
+.heading {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.users_block{
+  margin-top: 10px;
+}
+
+.user {
+  color: darkslategrey;
+  margin-left: 42%;
+  font-size: 25px;
+  text-decoration: none;
+}
+
+.user:hover {
+  color: chocolate;
+}
+
+.navBar {
+  background: chocolate;
+  padding: 15px;
+}
+
+
